@@ -1,6 +1,7 @@
-### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeslstep&layout=compact&langs_count=8)](https://github.com/jeslstep/github-readme-stats)
-
+<!-- ### Hi there 👋 -->
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeslstep&layout=compact&langs_count=8">
+</div>
 <!--
 **jeslstep/jeslstep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
